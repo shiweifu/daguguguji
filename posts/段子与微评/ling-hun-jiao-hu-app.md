@@ -1,5 +1,6 @@
 ---
 title: "灵魂交互 app"
+category: "段子与微评"
 ---
 # 灵魂交互 app
 

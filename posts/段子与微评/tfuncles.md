@@ -1,5 +1,6 @@
 ---
 title: "tfuncles"
+category: "段子与微评"
 ---
 # tfuncles
 

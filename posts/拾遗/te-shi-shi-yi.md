@@ -1,5 +1,6 @@
 ---
 title: "特师拾遗"
+category: "拾遗"
 ---
 ---
 description: 'https://www.douban.com/group/topic/108308206/ 来自: nexus1 2017-10-09 21:26:33'

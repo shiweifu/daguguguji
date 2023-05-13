@@ -1,5 +1,6 @@
 ---
 title: "中华盛世 mojito"
+category: "段子与微评"
 ---
 # 中华盛世 mojito
 
